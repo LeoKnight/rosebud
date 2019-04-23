@@ -1,0 +1,11 @@
+<view class=" cml-base cml-view cml-1734d74c"><cml-buildin-page title="chameleon" class=" cml-base cml-page cml-1734d74c">
+    <view class=" cml-base cml-view cml-1734d74c"><cml-buildin-scroller height="{{-1}}" class=" cml-base cml-scroller cml-1734d74c">
+      <view class="scroller-wrap  cml-base cml-view cml-1734d74c">
+        <view class=" cml-base cml-view cml-1734d74c"><demo-com title="{{title}}" image-src="{{chameleonSrc}}" class=" cml-base cml-demo-com cml-1734d74c"></demo-com></view>
+      </view>
+      <view class=" cml-base cml-view cml-1734d74c">
+        <view class=" cml-base cml-view cml-1734d74c"><cml-buildin-button type="blue" text="开始我们的旅程" onOnclick="_cmlEventProxy" data-eventonclick="testclick" class=" cml-base cml-button cml-1734d74c">
+        </cml-buildin-button></view>
+      </view>
+    </cml-buildin-scroller></view>
+  </cml-buildin-page></view>
